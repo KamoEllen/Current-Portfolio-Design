@@ -1,0 +1,78 @@
+Community-Based Disaster Preparedness Initiative Website using Figma, JavaScript, HTML, CSS, React
+
+Target: Create inclusive, safe, resilient, and sustainable cities and human settlements.
+
+Indicator: Measure the number of deaths, missing persons, and directly affected individuals attributed to disasters per 100,000 population.
+
+Introduction: The Community-Based Disaster Preparedness Initiative aims to empower communities to enhance their resilience and preparedness in the face of disasters. Utilizing technology and community collaboration, we align with the United Nations Sustainable Development Goals (UN SDG) to create inclusive, safe, resilient, and sustainable cities.
+
+Statistics 
+Between 2000 and 2019, there were approximately 7,348 reported disasters worldwide, resulting in over 1.23 million deaths and impacting nearly 4.2 billion people. -CRED , UNDRR
+Proactive measures, including training and communication, can lead to a 30-40% reduction in disaster-related fatalities and injuries.  -National Center for Disaster Preparedness at Columbia University
+
+Goals and Objectives:
+1. Empower Communities: Cultivate preparedness culture, reduce vulnerability.
+2. Reduce Disaster Impact: Provide real-time information and support, saving lives.
+3. Enhance Community Resilience: Strengthen with tools and knowledge for self-reliance in disasters.
+
+Disaster Preparedness Areas Addressed:
+1. Emergency Response Plans: Personalized household plans for hazards, resources, and composition.
+2. First Aid Training: Instructional videos and resources for basic first aid and CPR.
+3. Evacuation Routes: Reliable routes and safe locations for quick movement during disasters.
+4. Community Communication: Facilitating vital information sharing for mutual support during emergencies.
+
+Clear and Measurable Goals
+The initiative focuses on developing a disaster preparedness app addressing key areas, including emergency response plans, first aid training, evacuation routes, and community communication. By empowering users, we aim to save lives and reduce disaster impact, aligned with the UN SDGs.
+
+Technical Stack:
+1. Figma (Design and Prototyping)
+2. JavaScript (Front-end Development)
+3. HTML and CSS (Markup and Styling)
+
+Impact Measurement:
+We track app usage, preparedness plan creation, emergency alerts response, community engagement, training module completion, user satisfaction, community resilience indicators, case studies, and collaborations to gauge effectiveness.
+
+App Features:
+1. Emergency Alerts and Notifications
+2. Emergency Checklists
+3. Location-Specific Information
+4. First Aid and CPR Tutorials
+5. Community Forum or Chat
+6. Disaster-Specific Guides
+7. Emergency Contacts
+8. Personalized Preparedness Plans
+9. Interactive Maps
+10. Push-to-Talk or SOS Feature
+11. Training Modules and Quizzes
+12. Offline Access
+13. Language Support
+14. Feedback and Reporting
+15. Links to Official Resources
+16. App Gamification
+
+User Research:
+Understanding Sarah and Aisha's motivations, goals, and needs will enable us to design inclusive features that cater to their requirements, fostering community preparedness and collaboration.
+
+Two personas for the disaster preparedness app, representing two women from the same community with different backgrounds:
+
+**1. Persona 1: Sarah Thompson (White, 32 years old)**
+
+**Background:** Sarah is a 32-year-old white woman living in a suburban neighborhood in Cityville. She works as a marketing manager for a tech startup and has a busy schedule, often commuting to the city for work. She lives with her husband and two young children.
+
+**Motivations and Goals:** Sarah's main goal is to ensure the safety and well-being of her family during emergencies. She worries about the potential risks of natural disasters like floods and earthquakes in their area. Due to her busy work life, she needs a convenient and user-friendly app that provides clear, actionable steps for disaster preparedness.
+
+**Pain Points:** Sarah finds it challenging to stay updated on the latest disaster alerts and preparedness measures due to her packed schedule. She also worries about her children's safety when they are at school or daycare during an emergency.
+
+**Needs from the App:** Sarah needs an app that sends real-time alerts to her phone, offering guidance on the best evacuation routes and nearby shelters. She wants the app to include family-specific checklists for emergency kits and personalized preparedness plans to cover her family's unique needs.
+
+**2. Persona 2: Aisha Williams (Black, 27 years old)**
+
+**Background:** Aisha is a 27-year-old Black woman living in the same suburban neighborhood as Sarah. She works as a nurse at the local hospital and is involved in community outreach programs. She lives with her partner, Marcus, who is a firefighter, and they have a pet dog.
+
+**Motivations and Goals:** Aisha is passionate about helping others and being a reliable source of support during emergencies. As a frontline healthcare worker, she understands the importance of being well-prepared for disasters. She wants an app that fosters community communication and collaboration during crises.
+
+**Pain Points:** Aisha is concerned about her neighbors' lack of disaster preparedness awareness. She knows that the community's response during emergencies can be more effective with better coordination. She also worries about her dog's safety during evacuations.
+
+**Needs from the App:** Aisha needs an app that facilitates community engagement, enabling neighbors to share information, resources, and support during disasters. She would like to have a feature where neighbors can offer assistance to those who may need help evacuating their pets or securing their homes. Additionally, she wants the app to provide educational resources and training modules on disaster preparedness for community members.
+
+This understanding will help them design features that cater to both Sarah and Aisha's requirements, making the app more inclusive and effective in promoting disaster preparedness within the community.
